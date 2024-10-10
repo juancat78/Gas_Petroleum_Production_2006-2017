@@ -30,7 +30,8 @@ TECHNOLOGIES USED
 Languages: Python
 Libraries: Pandas, Numpy, Seaborn, Matplotlib, Scikit-Learn
 
-HOW TO USE THIS PROJECT 
+HOW TO USE THIS PROJECT
+https://github.com/juancat78/Gas_Petroleum_Production_2006-2017
 
 CONTACT
 For more information or inquiries, feel free to reach out to me via my LinkedIn profile:
